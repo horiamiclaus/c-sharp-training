@@ -1,0 +1,15 @@
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 2.csproj.AssemblyReference.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 2.AssemblyInfoInputs.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 2.AssemblyInfo.cs
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 2.exe
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 2.deps.json
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 2.runtimeconfig.json
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 2.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 2.pdb
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 2.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\obj\Debug\net6.0\refint\Basic C# - Part 2 - Exercise 2.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 2.pdb
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 2.genruntimeconfig.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 2\obj\Debug\net6.0\ref\Basic C# - Part 2 - Exercise 2.dll

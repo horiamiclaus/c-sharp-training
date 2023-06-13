@@ -1,0 +1,45 @@
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.exe
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.deps.json
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.runtimeconfig.json
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.pdb
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.csproj.AssemblyReference.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.AssemblyInfoInputs.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.AssemblyInfo.cs
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.csproj.CoreCompileInputs.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\refint\Basic C# - Part 2 - Exercise 3.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.pdb
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.genruntimeconfig.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\ref\Basic C# - Part 2 - Exercise 3.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.exe
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.deps.json
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.runtimeconfig.json
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.pdb
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.csproj.AssemblyReference.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.AssemblyInfoInputs.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.AssemblyInfo.cs
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.csproj.CoreCompileInputs.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\refint\Basic C# - Part 2 - Exercise 3.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.pdb
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.genruntimeconfig.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Basic C# - Part 2 - Exercise 3\obj\Debug\net6.0\ref\Basic C# - Part 2 - Exercise 3.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.exe
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.deps.json
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.runtimeconfig.json
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\bin\Debug\net6.0\Basic C# - Part 2 - Exercise 3.pdb
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.csproj.AssemblyReference.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.AssemblyInfoInputs.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.AssemblyInfo.cs
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.csproj.CoreCompileInputs.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\obj\Debug\net6.0\refint\Basic C# - Part 2 - Exercise 3.dll
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.pdb
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\obj\Debug\net6.0\Basic C# - Part 2 - Exercise 3.genruntimeconfig.cache
+C:\Users\hmiclaus\source\repos\c-sharp-training\Basic C# - Part 2\Exercise 3\obj\Debug\net6.0\ref\Basic C# - Part 2 - Exercise 3.dll
